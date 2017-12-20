@@ -1,29 +1,28 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: verdana;
+  color: white;
 }
 
 .header {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
-.travel-guide {
-font-family: Verdana;
+.travel-guide, .coming-soon {
 Font-weight: 300;
 font-size: 42;
 color: white
 }
 
 #excursion-link {
-  color: aquamarine;
+  color: Aquamarine;
   font-size: 16px;
 }
 
 #travel-guide {
-  font-family: Verdana;
   font-size: 21px;
   color: gray
 }
